@@ -1,0 +1,44 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/Oscar/Documents/GOOGLE/UDACITY/1/My codes/.metadata/.plugins/org.eclipse.core.resources/.projects/How_to_repeat/com.python.pydev.analysis/v2_indexcache
+Superhero|1518699646000000000|/Users/Oscar/Documents/GOOGLE/UDACITY/1/My codes/How_to_repeat/Superhero.py
+Stamps|1517003548000000000|/Users/Oscar/Documents/GOOGLE/UDACITY/1/My codes/How_to_repeat/Stamps.py
+blastoff|1516278416000000000|/Users/Oscar/Documents/GOOGLE/UDACITY/1/My codes/How_to_repeat/blastoff.py
+Problem_one|1516018921000000000|/Users/Oscar/Documents/GOOGLE/UDACITY/1/My codes/How_to_repeat/Problem_one.py
+Anything|1508729092000000000|/Users/Oscar/Documents/GOOGLE/UDACITY/1/My codes/How_to_repeat/Anything.py
+weekend|1516624164000000000|/Users/Oscar/Documents/GOOGLE/UDACITY/1/My codes/How_to_repeat/weekend.py
+Problem_3|1516244298000000000|/Users/Oscar/Documents/GOOGLE/UDACITY/1/My codes/How_to_repeat/Problem_3.py
+Range_of_set|1517228723000000000|/Users/Oscar/Documents/GOOGLE/UDACITY/1/My codes/How_to_repeat/Range_of_set.py
+Last_one|1516623877000000000|/Users/Oscar/Documents/GOOGLE/UDACITY/1/My codes/How_to_repeat/Last_one.py
+-- END DISKCACHE
+-- START DICTIONARY
+9
+5=Superhero
+3=blastoff
+7=Stamps
+8=Problem_one
+6=Anything
+9=weekend
+2=Problem_3
+1=Range_of_set
+4=Last_one
+-- END DICTIONARY
+-- START TREE 1
+13
+big|4|biggest!10@bigger!10@bigger!18@biggest!18@
+cou|1|countdown!26@
+day|0|
+fin|1|find_last!34@
+fix|1|fix_machine!42@
+get|1|get_next_target!50@
+med|1|median!18@
+res|0|
+set|1|set_range!10@
+sta|1|stamps!58@
+tes|0|
+uda|1|udacify!66@
+wee|1|weekend!74@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
