@@ -134,11 +134,11 @@ def lookup(index, keyword):
 
 #Here is an example showing a sequence of interactions:
 index = crawl_web('http://www.udacity.com/cs101x/index.html')
-print lookup(index, 'good')
+print (lookup(index, 'good'))
 #>>> [['http://www.udacity.com/cs101x/index.html', 0],
 #>>> ['http://www.udacity.com/cs101x/crawling.html', 0]]
 record_user_click(index, 'good', 'http://www.udacity.com/cs101x/crawling.html')
-print lookup(index, 'good')
+print (lookup(index, 'good'))
 #>>> [['http://www.udacity.com/cs101x/index.html', 0],
 #>>> ['http://www.udacity.com/cs101x/crawling.html', 1]]
 
